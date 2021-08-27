@@ -1,5 +1,5 @@
 ## Howdy, I'm Brandon 👋🏼
-![image](https://user-images.githubusercontent.com/6020066/124784929-69111800-df14-11eb-9765-173acd1b5b88.png)
+<image src="https://user-images.githubusercontent.com/6020066/124784929-69111800-df14-11eb-9765-173acd1b5b88.png" width="200"/>
 
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
