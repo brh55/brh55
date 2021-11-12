@@ -17,5 +17,11 @@ If you are working on some cool stuff, feel free to shoot me an email, and let's
 
 You can catch my shinnagians on [📹 YouTube](https://www.youtube.com/channel/UCludBg4ol9VgvHzHe-yRUXw).
 
+### Random Specialities
+- **Application Integrations / Marketplace Apps** - I've developed several application integrations with large platforms such as Workplace by Facebook, Shopify, Discord, Slack, Cisco Webex, etc
+- **Indie Hacker** - I've participated in over a dozen hackathons and won a handful, but more importantly I've built and delivered many consumer applications used by over several thousand users today.
+- **Passionate about Design** - Prior to getting into development, I was a free-lance web designer and spent my early adulthood exploring the creative realm.
+- **Competitive Speaker** - While rusty today, I've participated in competitive speaking at the regional level in Silicon Valley.
+
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brh55&theme=dark)](https://github.com/brh55)
