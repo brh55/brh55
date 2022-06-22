@@ -24,8 +24,19 @@ You can catch my shinnagians on [📹 YouTube](https://www.youtube.com/channel/U
 - **Competitive Speaker** - While rusty today, I've participated in competitive speaking at the regional level in Silicon Valley.
 
 ### Highlights of 2022
-![https://media-exp1.licdn.com/dms/image/C5622AQGmStURE4JhiA/feedshare-shrink_800/0/1653409671388?e=1658966400&v=beta&t=tZgydQizA1ip2YSTqrx10vdYKrnVKP-UwO2kXTclZ78](https://www.apec.org/press/news-releases/2022/the-2022-apec-app-challenge-calls-for-sustainable-agri-food-solutions)
-- I flew to Bangkok, Thailand and my team member, [Daanish](https://www.linkedin.com/in/daanishhusain/) and I represented the USA in the annual APEC Global Hackathon. We created a simple solution to match farmers with businesses owners to collaborate and utilize degraded land for alternative crops. We were selected finalist, and placed 3rd among 20 different teams from all over the world.
+#### APEC App Challenge 2022: Bangkok, Thailand
+<img height="200" src="https://media-exp1.licdn.com/dms/image/C5622AQGmStURE4JhiA/feedshare-shrink_800/0/1653409671388?e=1658966400&v=beta&t=tZgydQizA1ip2YSTqrx10vdYKrnVKP-UwO2kXTclZ78"/>
+
+I flew to Bangkok, Thailand where my team member, [Daanish](https://www.linkedin.com/in/daanishhusain/) and I represented the United States in the annual APEC Global Hackathon. We created a simple solution to match farmers with businesses owners to collaborate and utilize degraded land for alternative crops. We were selected finalist, and placed 3rd among 20 different teams from all over the world.
+
+#### Teaching my daughter the world of coding
+<img height="200" src="https://user-images.githubusercontent.com/6020066/175097378-28753eb6-6b14-4bb2-93e2-0cfcedb7d4e9.jpeg"/>
+Begin teaching my daughter (2 year old) on coding, it's been a growth in my patience :).
+
+
+#### Encountered my first NFT in the wild
+<img height="200" src="https://user-images.githubusercontent.com/6020066/175097177-03328dc9-d010-4167-b2d2-4d56c70aba64.jpeg"/>
+First time seeing a NFT used outside the metaverse for things like brand reputation, also met a robot barista -- automation is real.
 
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brh55&theme=dark)](https://github.com/brh55)
