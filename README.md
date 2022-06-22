@@ -29,12 +29,12 @@ You can catch my shinnagians on [📹 YouTube](https://www.youtube.com/channel/U
 
 I flew to Bangkok, Thailand where my team member, [Daanish](https://www.linkedin.com/in/daanishhusain/) and I represented the United States in the annual APEC Global Hackathon. We created a simple solution to match farmers with businesses owners to collaborate and utilize degraded land for alternative crops. We were selected finalist, and placed 3rd among 20 different teams from all over the world.
 
-#### Teaching my daughter the world of coding
+#### Learning Patience: Introducing my daughter to the world of coding
 <img height="200" src="https://user-images.githubusercontent.com/6020066/175097378-28753eb6-6b14-4bb2-93e2-0cfcedb7d4e9.jpeg"/>
 Begin teaching my daughter (2 year old) on coding, it's been a growth in my patience :).
 
 
-#### Encountered my first NFT in the wild
+#### Wild NFT: Encountered my first NFT in public
 <img height="200" src="https://user-images.githubusercontent.com/6020066/175097177-03328dc9-d010-4167-b2d2-4d56c70aba64.jpeg"/>
 First time seeing a NFT used outside the metaverse for things like brand reputation, also met a robot barista -- automation is real.
 
