@@ -23,5 +23,9 @@ You can catch my shinnagians on [📹 YouTube](https://www.youtube.com/channel/U
 - **Passionate about Design** - Prior to getting into development, I was a free-lance web designer and spent my early adulthood exploring the creative realm.
 - **Competitive Speaker** - While rusty today, I've participated in competitive speaking at the regional level in Silicon Valley.
 
+### Highlights of 2022
+![https://media-exp1.licdn.com/dms/image/C5622AQGmStURE4JhiA/feedshare-shrink_800/0/1653409671388?e=1658966400&v=beta&t=tZgydQizA1ip2YSTqrx10vdYKrnVKP-UwO2kXTclZ78](https://www.apec.org/press/news-releases/2022/the-2022-apec-app-challenge-calls-for-sustainable-agri-food-solutions)
+- I flew to Bangkok, Thailand and my team member, [Daanish](https://www.linkedin.com/in/daanishhusain/) and I represented the USA in the annual APEC Global Hackathon. We created a simple solution to match farmers with businesses owners to collaborate and utilize degraded land for alternative crops. We were selected finalist, and placed 3rd among 20 different teams from all over the world.
+
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brh55&theme=dark)](https://github.com/brh55)
