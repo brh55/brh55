@@ -38,5 +38,10 @@ Begin teaching my daughter (2 year old) on coding, it's been a growth in my pati
 <img height="200" src="https://user-images.githubusercontent.com/6020066/175097177-03328dc9-d010-4167-b2d2-4d56c70aba64.jpeg"/>
 First time seeing a NFT used outside the metaverse for things like brand reputation, also met a robot barista -- automation is real.
 
+#### My First Roblox Game
+<img src="https://camo.githubusercontent.com/4afa99350bac23e3732753e108261b5f41e47a04fc209dd86f731087c1cd5de2/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f57566b42414b5146656f715a5a6f4a7357742f67697068792e676966" height="300"/>
+A long time ago, prior to being a developer, I really wanted to be a professional video gamer! At the time (~2007) e-gaming was at it's infacy and tournaments were pretty localized. I never made it, but I attribute my technical knowledge to video games as it gave me a use-case to get into computers and code things like clan websites and forums. I even have an embarassing official community site for Control Monger that was pinned on the forums :D. Fast forward today, I've been wanting to learn to build video games and recreate some of my childhood favorites, but found most gaming platforms to have a huge learning curve that I just don't have time to commit to. Then came a little fun sandbox platform called Roblox, after a month of watching 12 year old YouTubers teaching me how to code aka "script", I've been able to launch a beta version of my first Roblox game called [Morphin Hide and Seek](https://www.roblox.com/games/8706024693/Morphin-Hide-and-Seek)! Whether it's a good game or not, I'm just looking forward to building cool experiences with my daughter :).
+
+
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brh55&theme=dark)](https://github.com/brh55)
