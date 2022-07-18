@@ -42,6 +42,16 @@ First time seeing a NFT used outside the metaverse for things like brand reputat
 <img src="https://camo.githubusercontent.com/4afa99350bac23e3732753e108261b5f41e47a04fc209dd86f731087c1cd5de2/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f57566b42414b5146656f715a5a6f4a7357742f67697068792e676966" height="300"/>
 A long time ago, prior to being a developer, I really wanted to be a professional video gamer! At the time (~2007) e-gaming was at it's infacy and tournaments were pretty localized. I never made it, but I attribute my technical knowledge to video games as it gave me a use-case to get into computers and code things like clan websites and forums. I even have an embarassing official community site for Control Monger that was pinned on the forums :D. Fast forward today, I've been wanting to learn to build video games and recreate some of my childhood favorites, but found most gaming platforms to have a huge learning curve that I just don't have time to commit to. Then came a little fun sandbox platform called Roblox, after a month of watching 12 year old YouTubers teaching me how to code aka "script", I've been able to launch a beta version of my first Roblox game called [Morphin Hide and Seek](https://www.roblox.com/games/8706024693/Morphin-Hide-and-Seek)! Whether it's a good game or not, I'm just looking forward to building cool experiences with my daughter :).
 
+#### Apollo Graphl Professional and Associate Certifications
+<code>
+<img src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" height="50"/>
+</code>
+<code>
+<img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" height="50"/>
+</code>
+
+I was introduced to GraphQL around 2016 during my time at Cisco, and thought it was one of the coolest technologies in web development for quite some time. Fast forward many years, it's been amazing to see how much the technology has evolved and seeing the landscape mature (like where's graph.cool?!). So it was exciting to see certifications from one of the trailblazers, Apollo. If you haven't done it yet, I encourage you to run through the courses, they are done so well!
+
 
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brh55&theme=dark)](https://github.com/brh55)
